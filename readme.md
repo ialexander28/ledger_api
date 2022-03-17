@@ -15,7 +15,10 @@ e.g. run in terminal: go run ledger_api.go
 
 4. Use http://localhost:3000/account or http://localhost:3000/account/{id} to show a list of accounts in JSON format:
 
-        It's suggested to have a JSON viewer installed as a browser extension so the JSON is displayed with a pretty format as intended.  e.g. in Brave, install JSON Viewer
+        It's suggested to have a JSON viewer installed as a 
+        browser extension so the JSON is displayed with a 
+        pretty format as intended.  e.g. in Brave, 
+        install JSON Viewer
 
     *View Transactions: 
 
@@ -54,4 +57,5 @@ e.g. run in terminal: go run ledger_api.go
 # Supporting Info
 
         
-    For questions, bugs, and general feedback contact me directly on the project link on github: https://github.com/ialexander28/ledger_api.git
+    For questions, bugs, and general feedback contact me directly on the project link on github: 
+    https://github.com/ialexander28/ledger_api.git
