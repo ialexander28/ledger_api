@@ -54,4 +54,4 @@ e.g. run in terminal: go run ledger_api.go
 # Supporting Info
 
         
-    For questions, bugs, and general feedback contact me directly on the project link on github: 
+    For questions, bugs, and general feedback contact me directly on the project link on github: https://github.com/ialexander28/ledger_api.git
