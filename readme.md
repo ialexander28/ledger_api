@@ -1,6 +1,6 @@
 # Ledger Description
 
-This is a rest api that can easily be used with cURL or postman. 
+This is a REST API that can easily be used with cURL or postman. 
 
 # Instructions
 
