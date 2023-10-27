@@ -4,7 +4,7 @@ This is a rest api that can easily be used with cURL or postman.
 
 # Instructions
 
-1. Run the program in yyour favorite editor (hopefully you're using VS Code) 
+1. Run the program in your favorite editor (hopefully you're using VS Code) 
 e.g. run in terminal: go run ledger_api.go
 
 2. When you run the program you will see a popup window that asks for you to allow the program to run as localhost:3000.  Click "Allow" in the window. 
